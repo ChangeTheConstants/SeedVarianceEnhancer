@@ -1,6 +1,6 @@
 [project]
-name = "seedvarianceenhancer"
-description = "A ComfyUI custom node that adds diversity to Z-Image Turbo outputs by adding random noise to text prompt embeddings to compensate for low seed variance."
+name = "SeedVarianceEnhancer"
+description = "A ComfyUI custom node that adds diversity to Z-Image Turbo outputs by adding random noise to text embeddings."
 version = "2.0.0"
 license = {file = "LICENSE"} 
 classifiers = [
