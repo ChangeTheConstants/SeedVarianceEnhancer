@@ -116,5 +116,3 @@ Here users are encouraged to share their experiences, including the settings and
 
 SeedVarianceEnhancer is released under the MIT No Attribution license.
 
-SeedVarianceEnhancer is released under the MIT No Attribution license.
-
